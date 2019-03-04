@@ -1,0 +1,12 @@
+#m3u
+EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PPV: LIVE EVENTS 1"  group-title="PP LIVE EVENTS",PPV: LIVE EVENTS 1
+
+http://ksportapp.hopto.me:1558/lIlI!0!0!lIlIkApPzSieZ!/g6W0h0iNAb/1216
+
+EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PPV: LIVE EVENTS 2"  group-title="PP LIVE EVENTS",PPV: LIVE EVENTS 2
+
+http://ksportapp.hopto.me:1558/lIlI!0!0!lIlIkApPzSieZ!/g6W0h0iNAb/1195
+
+EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PPV: LIVE EVENTS 3"  group-title="PP LIVE EVENTS",PPV: LIVE EVENTS 3
+
+http://ksportapp.hopto.me:1558/lIlI!0!0!lIlIkApPzSieZ!/g6W0h0iNAb/1220
